@@ -33,3 +33,9 @@ project/plugins/project/
 hs_err_pid*
 
 # Created by .ignore support plugin (hsz.mobi)
+
+# gradle
+**/.gradle/*
+**/build/*
+**/gradle/*
+**/gradle*
